@@ -1,0 +1,34 @@
+{
+    "name": "TouchControlls",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "c12fb245-4e05-4eed-9dcd-bb5c1393d81c",
+            "actions": [
+                {
+                    "name": "Flip",
+                    "type": "Button",
+                    "id": "fd50d90d-1f97-4b26-aac3-8b11e3c68e80",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a3ac25af-fa9f-494d-86d2-7e12f7b3a057",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "MultiTap(tapDelay=0.2)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Flip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
