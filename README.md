@@ -1,6 +1,5 @@
 # MythicFlip
-
-![image](https://user-images.githubusercontent.com/106911051/172294476-02e21d9f-52b4-4584-8b3f-57b9ed971d5c.png)
+![image](https://user-images.githubusercontent.com/106911051/172294756-99cf4df7-c6e7-4a39-9e18-d5ac7933b329.png)
 
 APK link
 https://drive.google.com/file/d/1j1dxPDC3Xuutv8rGSOPKDpTnXmRKlvVC/view?usp=sharing
